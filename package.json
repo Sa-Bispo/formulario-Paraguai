@@ -1,0 +1,22 @@
+{
+  "name": "formulario-paraguai",
+  "version": "1.0.0",
+  "description": "Formulario Paraguai",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sa-Bispo/formulario-Paraguai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sa-Bispo/formulario-Paraguai/issues"
+  },
+  "homepage": "https://github.com/Sa-Bispo/formulario-Paraguai#readme"
+}
